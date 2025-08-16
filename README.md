@@ -1,3 +1,3 @@
 # hi-eire
 Playing around with new features 
-![Model](./images/Garden-Fairy-Door-Magic-Wee.jpg)
+![Model](./poems-etc/Garden-Fairy-Door-Magic-Wee.jpg)
